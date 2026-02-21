@@ -3,10 +3,30 @@
     <title>Explora.In</title>
     <link href="https://mainakbarman.github.io/Explore.In/feed.xml" rel="self" />
     <link href="https://mainakbarman.github.io/Explore.In" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-02-21T16:42:48+05:30</updated>
     <author>
         <name>Mainak Barman</name>
     </author>
     <id>https://mainakbarman.github.io/Explore.In</id>
 
+    <entry>
+        <title>the boy</title>
+        <author>
+            <name>Mainak Barman</name>
+        </author>
+        <link href="https://mainakbarman.github.io/Explore.In/the-boy.html"/>
+        <id>https://mainakbarman.github.io/Explore.In/the-boy.html</id>
+
+        <updated>2026-02-21T16:41:00+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    aksjdfklno knasdnlfknasd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>aksjdfklno  knasdnlfknasd</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

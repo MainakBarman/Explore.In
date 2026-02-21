@@ -3,7 +3,7 @@
     <title>Explora.In</title>
     <link href="https://mainakbarman.github.io/Explore.In/feed.xml" rel="self" />
     <link href="https://mainakbarman.github.io/Explore.In" />
-    <updated>2026-02-21T22:29:04+05:30</updated>
+    <updated>2026-02-21T22:38:10+05:30</updated>
     <author>
         <name>Mainak Barman</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://mainakbarman.github.io/Explore.In/fruit-logic.html"/>
         <id>https://mainakbarman.github.io/Explore.In/fruit-logic.html</id>
-        <media:content url="https://mainakbarman.github.io/Explore.In/media/posts/3/SummerFruit-b381af684dde4930af7ed97a883224af.jpg" medium="image" />
+            <category term="motivation"/>
+            <category term="fruitlogic "/>
+            <category term="explora.in"/>
 
         <updated>2026-02-21T22:27:56+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://mainakbarman.github.io/Explore.In/media/posts/3/SummerFruit-b381af684dde4930af7ed97a883224af.jpg" alt="" />
                     If we look at nature, the idea of "forcing" a result is actually a form of destruction. You can’t reach into a chrysalis and pull the wings out of a butterfly to help it fly sooner; you’ll only crush them. When it comes to our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mainakbarman.github.io/Explore.In/media/posts/3/SummerFruit-b381af684dde4930af7ed97a883224af.jpg" class="type:primaryImage" alt="" /></p>
                 <p data-path-to-node="1">If we look at nature, the idea of "forcing" a result is actually a form of destruction. You can’t reach into a chrysalis and pull the wings out of a butterfly to help it fly sooner; you’ll only crush them. When it comes to our own goals, we often suffer from <strong data-path-to-node="2" data-index-in-node="53">"Harvest Anxiety."</strong> We become so obsessed with picking the fruit that we neglect the biology of the growth.</p>
 <p data-path-to-node="5">In modern agriculture, we use chemicals to make fruit look ripe on the outside while it’s still flavourless on the inside. We do the same thing in our lives. We use "hacks," shortcuts, or social media posturing to look successful before we’ve actually done the work.</p>
 <p data-path-to-node="6">The result? You might fool the world for a moment, but the <strong data-path-to-node="6" data-index-in-node="59">internal substance</strong> isn't there. If you haven't spent the time "in the tree" growing your roots and absorbing nutrients, the first cold snap of reality will knock you down. True ripeness requires a specific amount of time under the sun—there are no biological workarounds for character.</p>
@@ -50,10 +50,8 @@
 </li>
 </ul>
 <p data-path-to-node="14">When you try to "fall from the tree" too early, you land on hard ground before anyone is there to catch you. Strategic patience ensures that when you finally let go, the world is ready to receive what you have to offer.</p>
-<hr data-path-to-node="15">
-<blockquote data-path-to-node="16">
-<p data-path-to-node="16,0"><strong data-path-to-node="16,0" data-index-in-node="0">The takeaway:</strong> Don't mistake a slow season for a dead season. The most vibrant colours and the richest flavours are reserved for those who don't pick the fruit while it’s still green.</p>
-</blockquote>
+<p data-path-to-node="14"> </p>
+<p class="msg--highlight  msg--info" data-path-to-node="16,0"><em><strong>The takeaway: </strong>Don't mistake a slow season for a dead season. The most vibrant colours and the richest flavours are reserved for those who don't pick the fruit while it’s still green.</em></p>
             ]]>
         </content>
     </entry>

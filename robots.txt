@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mainakbarman.github.io/Explore.In/sitemap.xml
